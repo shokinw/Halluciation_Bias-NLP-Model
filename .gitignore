@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+outputs/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
